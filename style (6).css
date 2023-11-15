@@ -1,0 +1,37 @@
+body {
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: #3924d6;
+}
+
+header {
+  background-color: #a18c8c;
+}
+
+nav {
+  background-color: #d4b90c;
+}
+
+main {
+  background-color: #d4b90c;
+  font-size: 25px;
+}
+
+footer {
+  background-color: #d4b90c;
+}
+
+li {
+  display: table-cell;
+  width: 20%;
+}
+
+p {
+  line-height: 1.5;
+}
